@@ -1,5 +1,4 @@
-# doublyLinkedListHW
-    Jorge Patino assignment 2 10/6/23
+Jorge Patino assignment 2 10/6/23
 
     the compilation and running of the driver file can all be done by using the command ./compile in the main assignment directory
 
